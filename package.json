@@ -5,7 +5,7 @@
   "main": "dist/app.js",
   "type": "module",
   "scripts": {
-    "build": "tsc",
+    "build": "npx tsc",
     "start": "node dist/app.js",
     "test": "jest",
     "prepare": "husky install",
