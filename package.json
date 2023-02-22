@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agonsant/demo-express-configs.git"
+    "url": "git+https://github.com/LorenaAnayaDiaz/202301-w6ch2-lorena-anaya.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/agonsant/demo-express-configs/issues"
+    "url": "https://github.com/LorenaAnayaDiaz/202301-w6ch2-lorena-anaya/issues"
   },
-  "homepage": "https://github.com/agonsant/demo-express-configs#readme",
+  "homepage": "https://github.com/LorenaAnayaDiaz/202301-w6ch2-lorena-anaya#readme",
   "devDependencies": {
     "@types/jest": "^29.4.0",
     "@types/node": "^18.14.0",
